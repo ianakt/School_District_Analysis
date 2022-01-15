@@ -53,12 +53,29 @@ Purpose of PyCity Schools Analysis:
   
   ![image](https://user-images.githubusercontent.com/68198233/149637998-3a5f5a69-6b38-47b3-b4ae-046291b9dea6.png)
 
+   Performance based on budget per student (After THS9)
+   
+  ![image](https://user-images.githubusercontent.com/68198233/149638850-714488c7-a738-4e77-942b-a3fee735602f.png)
+
+  
+  
+  
   
   Performance based on school size (Before THS9)
   
   ![image](https://user-images.githubusercontent.com/68198233/149637453-2ba71289-3e05-414b-8385-2cfcecc51419.png)
+  
+  Performance based on school size (After THS9)
+  
+  ![image](https://user-images.githubusercontent.com/68198233/149638875-acf2e958-b20a-4068-aff0-8031f0bf1264.png)
+
 
   
-  Performance based on school type (before THS9)
+  Performance based on school type (Before THS9)
   
  ![image](https://user-images.githubusercontent.com/68198233/149637394-74bebbd3-3221-48a7-a5a5-b2af50030d6e.png)
+ 
+ Performance based on school type (After THS9)
+ 
+ ![image](https://user-images.githubusercontent.com/68198233/149638898-8c40a9fd-02b8-4635-908b-39c744309797.png)
+

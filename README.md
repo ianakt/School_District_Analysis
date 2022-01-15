@@ -91,3 +91,7 @@ Purpose of PyCity Schools Analysis:
  
  ![image](https://user-images.githubusercontent.com/68198233/149638898-8c40a9fd-02b8-4635-908b-39c744309797.png)
 
+
+Summary:
+
+We'll these results appear to bring more questions than answers. As the spending per student  increased, the passing rate decreased. Another significant finding is that larger schools had significantly lower schools. The most dramatic difference was between district and charter schools, charter schools performed much better. If anything these results indicate that we much to learn from Charter schools, and whether the budget within a certain limits have a positive or negative effect.

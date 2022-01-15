@@ -2,7 +2,9 @@
 
 Purpose of PyCity Schools Analysis:
 
-	For the School Board and Superintendent to understand the current state of our schools in our district, we have created this overview which includes key metrics, regarding performance, budget, school size, school type, among other factors which given to us by canvas (please see the resources folder)
+	For the School Board and Superintendent to understand the current state of our schools in our district,
+	we have created this overview which includes key metrics, regarding performance, budget, school size, school type,
+	among other factors which given to us by canvas (please see the resources folder)
 	
 	Please note that the math, and reading scores are
 	measures of performance of the standardized tests alone.

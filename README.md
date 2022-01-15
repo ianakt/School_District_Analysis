@@ -70,7 +70,7 @@ Purpose of PyCity Schools Analysis:
   
   Performance based on school size (After THS9)
   
-  ![image](https://user-images.githubusercontent.com/68198233/149638875-acf2e958-b20a-4068-aff0-8031f0bf1264.png)
+![image](https://user-images.githubusercontent.com/68198233/149640932-14862d7b-dedb-43a0-958e-2bc9ac115130.png)
 
 
   

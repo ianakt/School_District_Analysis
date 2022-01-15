@@ -9,8 +9,17 @@ Purpose of PyCity Schools Analysis:
 	Please note that the math, and reading scores are
 	measures of performance of the standardized tests alone.
 	
+	We disregarded the 9th graders from Thomas High School, there was a suspicion of some
+	falsification in their grades, we inlcuded the results before and after they were excluded,
+	their inlcusion had little effect on the results.
+
+	
   
   Results:
+  
+  The Average reading, math and overall passing scores and/or percentages are included below for the District, spending per student, and
+  top/bottom 5 schools. 
+  
   
   Overview of District (before THS9)
    ![image](https://user-images.githubusercontent.com/68198233/149638547-b374ba88-851b-4093-a2fc-67997676de3a.png)

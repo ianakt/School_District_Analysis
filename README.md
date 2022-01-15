@@ -20,11 +20,11 @@ Purpose of PyCity Schools Analysis:
   
   Bottom 5 (After THS9)
   
-  Average Math score
+  Average Math score (Before THS9)
   
-  Average Reading Score
+  Average Reading Score (Before THS9)
   
-  Performance based on budget per student
+  Performance based on budget per student (Before THS9)
   
   Performance based on school size (Before THS9)
   

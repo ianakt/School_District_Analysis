@@ -13,12 +13,12 @@ Purpose of PyCity Schools Analysis:
   Results:
   
   Overview of District (before THS9)
-  
-  ![image](https://user-images.githubusercontent.com/68198233/149638216-30539b70-2e73-45ad-8cb7-e3d40939c423.png)
+   ![image](https://user-images.githubusercontent.com/68198233/149638547-b374ba88-851b-4093-a2fc-67997676de3a.png)
   
   Overview of District (after THS9)
   
-  ![image](https://user-images.githubusercontent.com/68198233/149638547-b374ba88-851b-4093-a2fc-67997676de3a.png)
+ ![image](https://user-images.githubusercontent.com/68198233/149640113-5ddc785c-fbc3-4349-a71c-129406ea6696.png)
+
 
 
 

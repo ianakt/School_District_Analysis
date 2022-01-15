@@ -57,7 +57,8 @@ Purpose of PyCity Schools Analysis:
 
    Performance based on budget per student (After THS9)
    
-  ![image](https://user-images.githubusercontent.com/68198233/149638850-714488c7-a738-4e77-942b-a3fee735602f.png)
+ ![image](https://user-images.githubusercontent.com/68198233/149640747-763ef576-97f2-433c-a95d-aa454bd852c5.png)
+
 
   
   

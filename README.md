@@ -2,16 +2,16 @@
 
 Purpose of PyCity Schools Analysis:
 
-	For the School Board and Superintendent to understand the current state of our schools in our district,
-	we have created this overview which includes key metrics, regarding performance, budget, school size, school type,
-	among other factors which given to us by canvas (please see the resources folder)
-	
-	Please note that the math, and reading scores are
-	measures of performance of the standardized tests alone.
-	
-	We disregarded the 9th graders from Thomas High School, there was a suspicion of some
-	falsification in their grades, we inlcuded the results before and after they were excluded,
-	their inlcusion had little effect on the results.
+For the School Board and Superintendent to understand the current state of our schools in our district,
+we have created this overview which includes key metrics, regarding performance, budget, school size, school type,
+among other factors which given to us by canvas (please see the resources folder)
+
+Please note that the math, and reading scores are
+measures of performance of the standardized tests alone.
+
+We disregarded the 9th graders from Thomas High School (THS9), there was a suspicion of some
+falsification in their grades, we inlcuded the results before and after they were excluded,
+their inlcusion had little effect on the results.
 
 	
   

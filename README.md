@@ -67,6 +67,9 @@ their inlcusion had little effect on the results.
    Performance based on budget per student (After THS9)
    
  ![image](https://user-images.githubusercontent.com/68198233/149640747-763ef576-97f2-433c-a95d-aa454bd852c5.png)
+ 
+ ![image](https://user-images.githubusercontent.com/68198233/181056619-57179ee6-3be5-49c2-a43d-ee0f2e32b45a.png)
+
 
 
   

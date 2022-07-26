@@ -92,8 +92,7 @@ their inlcusion had little effect on the results.
  
 Percent Overall Passing
 
-![image](https://user-images.githubusercontent.com/68198233/180896219-e9b8f3be-3dd7-484b-9fa7-bacb058ef0df.png)
-
+![image](https://user-images.githubusercontent.com/68198233/181028543-0d1ccf18-9065-406d-95a4-b0844e7e50af.png)
 
 
 Summary:

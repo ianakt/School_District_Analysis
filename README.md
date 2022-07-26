@@ -89,7 +89,11 @@ their inlcusion had little effect on the results.
  
  Performance based on school type (After THS9)
  
- ![image](https://user-images.githubusercontent.com/68198233/149638898-8c40a9fd-02b8-4635-908b-39c744309797.png)
+ 
+Percent Overall Passing
+
+![image](https://user-images.githubusercontent.com/68198233/180896219-e9b8f3be-3dd7-484b-9fa7-bacb058ef0df.png)
+
 
 
 Summary:
